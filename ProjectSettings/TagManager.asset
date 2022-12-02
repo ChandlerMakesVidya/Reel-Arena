@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AirNode
+  - Randomizer
+  - NavMesh
+  - Fire
+  - HUDCanvas
+  - MainMenuCanvas
+  - GameOverCanvas
+  - CreditsCanvas
+  - HowToPlayCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Ground
+  - Props
+  - Enemy
+  - Weapon
+  - Environment
+  - PostProcessing
+  - Rocket
+  - Slug
+  - GroundCheck
+  - Pickup
+  - Bound
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
